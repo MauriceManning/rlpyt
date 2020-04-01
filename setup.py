@@ -5,6 +5,5 @@ setup(
     name='rlpyt',
     version='0.1.1dev',
     packages=find_packages(),
-    license='MIT License',
-    long_description=open('README.md').read(),
+    license='MIT License'
 )
